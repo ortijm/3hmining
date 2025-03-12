@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/ortijm/Documents/Proyecto-Django/3hmining-2/.venv2"
+VIRTUAL_ENV="/Users/ortijm/Documents/Proyecto-Django/3hmining-2-updated/.venv2"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

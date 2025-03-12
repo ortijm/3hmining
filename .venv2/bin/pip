@@ -1,4 +1,4 @@
-#!/Users/ortijm/Documents/Proyecto-Django/3hmining-2/.venv2/bin/python
+#!/Users/ortijm/Documents/Proyecto-Django/3hmining-2-updated/.venv2/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
